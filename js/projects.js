@@ -39,7 +39,7 @@ const portfolioProjects = [
       "LINQ",
       "Bootstrap 5"
     ],
-    githubUrl: "https://github.com/philopater-ashraf/RouteFitness-GymSystem",
+    githubUrl: "https://github.com/Philopateer18/RouteFitness-GymSystem",
     swaggerUrl: null,
     sampleSnippet: `// Unit of Work Implementation in Route Fitness
 public class UnitOfWork : IUnitOfWork
@@ -97,8 +97,8 @@ public class UnitOfWork : IUnitOfWork
       "Postman",
       "Git"
     ],
-    githubUrl: "https://github.com/philopater-ashraf/Enterprise-ECommerce-API",
-    swaggerUrl: "https://philopater-ashraf.github.io/swagger-preview",
+    githubUrl: "https://github.com/Philopateer18/Enterprise-ECommerce-API",
+    swaggerUrl: "https://Philopateer18.github.io/swagger-preview",
     sampleSnippet: `// Secure Product Controller with Caching & Specification Pattern
 [ApiController]
 [Route("api/[controller]")]
@@ -155,7 +155,7 @@ public class ProductsController : ControllerBase
       "Postman",
       "Git"
     ],
-    githubUrl: "https://github.com/philopater-ashraf/TaskManagement-API",
+    githubUrl: "https://github.com/Philopateer18/TaskManagement-API",
     swaggerUrl: null,
     sampleSnippet: `// LINQ Query Optimization with AsNoTracking and Projection
 public async Task<IReadOnlyList<TaskSummaryDto>> GetProjectTasksAsync(int projectId)
@@ -206,7 +206,7 @@ public async Task<IReadOnlyList<TaskSummaryDto>> GetProjectTasksAsync(int projec
       "RESTful API",
       "Swagger"
     ],
-    githubUrl: "https://github.com/philopater-ashraf/Clinic-Booking-Backend",
+    githubUrl: "https://github.com/Philopateer18/Clinic-Booking-Backend",
     swaggerUrl: null,
     sampleSnippet: `// Booking Conflict Validation Service
 public async Task<BookingResult> BookAppointmentAsync(AppointmentCreateDto dto)
